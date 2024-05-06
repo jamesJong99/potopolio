@@ -1,0 +1,130 @@
+{
+  "Home": {
+    "languages": {
+      "ptLanguage": "Alterar idioma para português",
+      "enLanguage": "Alterar idioma para inglês"
+    },
+    "mainContent": {
+      "profileImageAlt": "Foto de perfil do Rafael Santana",
+      "city": "Zona Sul, São Paulo",
+      "description": "Desenvolvedor Mobile, apaixonado por tecnologia, sempre em busca de desafios e projeto para ter um aprendizado constante. Focado atualmente em desenvolvimento mobile que é uma área com bastante novidades e diversos conhecimentos que pretendo aprender.",
+      "contact": "contato",
+      "email": "Enviar e-mail"
+    },
+    "aboutMe": {
+      "title": "SOBRE MIM",
+      "description": "Eu sou o Rafael Santana, Desenvolvedor Mobile e formado em Análise e Desenvolvimento de Sistemas. Focado em desenvolvimento mobile procuro sempre escrever código bem projetado, testável, eficiente usando as melhores práticas atuais em desenvolvimento mobile e aprender novas tecnologias. Se você está procurando um desenvolvedor mobile talentoso e dedicado para ajudar a levar sua ideia de aplicativo para o próximo nível, estou pronto para conversar com você!"
+    },
+    "academicFormation": {
+      "title": "Formação acadêmica",
+      "ads": "Análise e Desenvolvimento de Sistemas"
+    },
+    "experiences": {
+      "title": "Experiências",
+      "valiant": {
+        "title": "Full Stack Developer"
+      },
+      "webjump": {
+        "title": "Mobile Engineer"
+      },
+      "medsystems": {
+        "title": "Mobile Engineer",
+        "current": "Atual"
+      }
+    },
+    "courses": {
+      "title": "Cursos",
+      "certificate": "Certificado",
+      "hours": "horas",
+      "english": "Inglês",
+      "htmlAndCss": "HTML e CSS na prática",
+      "modernWeb": "Web Moderno com JavaScript",
+      "sql": "Banco de dados SQL",
+      "reactInPractive": "React Js do zero ao avançado na pratica",
+      "mobileApps": "Aplicativos mobile do zero com React Native e Redux",
+      "learnNext": "Aprenda NextJS, GraphQL e Leaflet na prática!",
+      "igniteRn": "Trilha React Native do programa Ignite",
+      "igniteR": "Trilha React do programa Ignite",
+      "factoryApp": "Fábrica de aplicativos - React Native",
+      "reactNativePractice": "React Native na Prática: Apps para iOS e Android [2023]",
+      "detox": "Detox & Cucumber: React Native E2E - Beginner to Advanced",
+      "threeJourney": "Three.js Journey"
+    },
+    "projects": {
+      "title": "PROJETOS",
+      "splashScreen": "Página de carregamento do aplicativo.",
+      "initialPage": "Página inical",
+      "signInPage": "Página login",
+      "signUpPage": "Página cadastro",
+      "aboutPage": "Página sobre",
+      "projectLink": " Link do projeto: ",
+      "broto": {
+        "description": "O Broto é um aplicativo, onde você encontra máquinas, implementos, equipamentos de energia, irrigação e armazenagem, serviços, insumos e tecnologias voltadas à agricultura de precisão."
+      },
+      "nt": {
+        "description": "O Natural da terra é um aplicativo de ecommerce do ramo de hortifrutigranjeiro, desenvolvido com React native."
+      },
+      "ht": {
+        "description": "O Hortifruti é um aplicativo de ecommerce do ramo de hortifrutigranjeiro, desenvolvido com React native."
+      },
+      "medInventory": {
+        "description": "MedInventory é uma solução que simplifica e aprimora a forma como os nossos colaboradores gerenciam o inventário."
+      },
+      "medEntregas": {
+        "description": "MedEntregas é uma solução que simplifica e aprimora a forma como os colaboradores gerenciam suas entregas. Com uma interface intuitiva e recursos poderosos, oferecemos aos usuários a capacidade de acompanhar, registrar e monitorar suas entregas de maneira eficiente."
+      },
+      "medSales": {
+        "description": "Gerador de propostas de vendas para os colaboradores da Medsystems"
+      },
+      "pokemon": {
+        "description": "Pokemon é app desenvolvido com React Native, que tem como objetivo principal, listar todos os pokemons, mostrar suas informações e que seja possível realizar pesquisa via imagens.",
+        "infoPage": "Página que lista as informações do pokemon escolhido."
+      },
+      "todoList": {
+        "description": "O Todo List é um aplicativo desenvolvido com React native que tem como objetivo principal, criar uma lista de tarefas, onde o usuário pode adicionar, editar, excluir e marcar como concluída.",
+        "emptyListPage": "Página com lista vazia",
+        "listPage": "Página com lista com tarefas",
+        "profilePage": "Página de perfil"
+      },
+      "brokenOut": {
+        "description": "O Broken Out é um site que visa facilitar o acesso a informações de jogos, seja do celular, console ou desktop. Disponibilizamos uma imensa variedade de jogos cadastrados. Contudo, você pode adicionar qualquer jogo que não esteja cadastrado. Ajudando assim, outros usuários a encontrar o jogo desejado no site.",
+        "gamesPage": "Página jogos",
+        "selectedGamePage": "Página jogo selecionado"
+      },
+      "highPerformance": {
+        "description": "O projeto High Performance é um app voltado para educadores físicos que desejam uma ferramenta de interação com seus alunos de uma maneira simples. O objetivo é a construção de uma plataforma onde o usuário tenha total controle dos seus alunos, com uma agenda de aulas, além de uma plataforma onde seja possível também um controle financeiro.",
+        "reportsPage": "Página de relatórios"
+      },
+      "rafaels": {
+        "description": "O projeto Rafael's Trips é um para relembrar os lugares que eu já estive pelo mundo!",
+        "salvadorPage": "Página Salvador",
+        "saoPauloPage": "Página São Paulo"
+      },
+      "rhoades": {
+        "description": "O projeto Estética Rhoades é um web site que tem como o objetivo de apresentar um portifólio de uma determindada profissional de estética e um blog para estudante e profissionais da área de estética. Contudo, de uma forma bem simples em que até um entusiasta da área possa entender.",
+        "blogPage": "Página do Blog",
+        "postsPage": "Página de Post"
+      }
+    },
+    "techs": {
+      "title": "Algumas tecnologias que utilizo"
+    },
+    "backToTheTop": {
+      "title": "Voltar ao topo"
+    },
+    "changeColor": {
+      "title": "Alterar cor principal do site"
+    }
+  },
+  "Notfound": {
+    "notFound": "Página não encontrada",
+    "goBack": "Voltar para a página anterior"
+  },
+  "Document": {
+    "description": "Desenvolvedor Mobile, apaixonado por tecnologia, sempre em busca de desafios e projeto para ter um aprendizado constante.",
+    "developer": "Desenvolvedor"
+  },
+  "Links": {
+    "linkedin": "https://www.linkedin.com/in/rafalmeida73/"
+  }
+}
